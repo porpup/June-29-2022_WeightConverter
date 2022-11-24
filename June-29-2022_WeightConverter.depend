@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1656607012 source:c:\users\oleksandr shyryayev\desktop\algorithms and programming 420-ap1-as\projects\june-29-2022_weightconverter\main.cpp
+	<iostream>
+	<cmath>
+	<algorithm>
+
